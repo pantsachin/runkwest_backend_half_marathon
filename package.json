@@ -1,0 +1,19 @@
+{
+  "name": "runkwest_backend_half_marathon",
+  "version": "1.0.0",
+  "description": "Backend Express Server for the video Library App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pantsachin/runkwest_backend_half_marathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pantsachin/runkwest_backend_half_marathon/issues"
+  },
+  "homepage": "https://github.com/pantsachin/runkwest_backend_half_marathon#readme"
+}
